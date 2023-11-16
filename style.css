@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    background-image: url(./images/background.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* Navbar Element Settings */
+.navbar-custom {background-color: black;}
+
+/* Adjusting padding for links */
+li {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: rgb(239, 0, 0);
+    background-color: rgb(44, 44, 44);
+    border-radius: 10px;
+}
