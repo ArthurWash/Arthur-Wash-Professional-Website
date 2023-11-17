@@ -6,3 +6,6 @@ Created the project, added all pages and images, as well as creating the navbar 
 ## Update 2: Home Page
 * Added borders to the mobile navbar.
 * Created header section for the home page.
+
+## Update 3: Skills Section
+* Created the skills section, and gave it a responsive layout.

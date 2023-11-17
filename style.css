@@ -29,8 +29,9 @@ li {
     color: rgb(239, 0, 0);
 }
 
-/* Main Settings */
+/* <Main> Settings */
 
+/* Header Settings */
 h1 {
     color: white;
     font-size: 3.5em;
@@ -70,4 +71,42 @@ h2 {
 @media (max-width: 400px) {
     h1 {font-size: 3em;}
     h2 {font-size: .7em;}
+}
+
+/* Skills Section */
+.skills-container {
+    background-color: rgba(44, 44, 44, 0.788);
+    border-radius: 10px;
+    margin: 50px;
+    padding: 50px;
+}
+
+.icon {
+    width: 50px;
+}
+
+h4 {
+    color: rgb(239, 0, 0);
+    font-weight: bold;
+    text-shadow: 5px 5px 5px black;
+}
+
+.text-body-secondary {
+    color: white !important;
+    margin: 10px;
+    text-shadow: 5px 5px 5px black;
+}
+
+@media (min-width: 1024px) {
+    .skills-container {
+        width: 848px;
+        margin: 40px auto;
+    }
+}
+
+@media (max-width: 909px) {
+    .skills-container {
+        width: 100%;
+        margin: 40px auto;
+    }
 }
