@@ -8,6 +8,8 @@ body {
 }
 
 /* Navbar Element Settings */
+nav {position: fixed;}
+
 .navbar-custom {background-color: black;}
 
 /* Adjusting padding for links */
@@ -37,7 +39,7 @@ h1 {
     font-size: 3.5em;
     font-weight: bold;
     text-shadow: 5px 5px 5px black;
-    margin-top: 75px;
+    margin-top: 125px;
 }
 
 h2 {
@@ -108,5 +110,14 @@ h4 {
     .skills-container {
         width: 100%;
         margin: 40px auto;
+    }
+}
+
+/* Footer Settings */
+.name {color:rgb(239, 0, 0);}
+
+@media (max-width: 430px) {
+    .justify-content-between {
+        justify-content: center !important;
     }
 }
