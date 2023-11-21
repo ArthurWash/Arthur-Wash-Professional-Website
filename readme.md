@@ -9,3 +9,6 @@ Created the project, added all pages and images, as well as creating the navbar 
 
 ## Update 3: Skills Section
 * Created the skills section, and gave it a responsive layout.
+
+## Update 4: Overview Section
+* Created three columns for github, video, and audio content.

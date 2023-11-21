@@ -56,23 +56,24 @@ h2 {
 }
 
 @media (max-width: 992px) {
-    h2 {font-size: 1.25em;}
+    .subtitle {font-size: 1.25em;}
     .home {border-bottom: 1px solid white;}
     .audio {border-bottom: 1px solid white;}
 }
 
 @media (max-width: 768px) {
-    h2 {font-size: 1em;}
+    .subtitle {font-size: 1em;}
+    .col-12 {margin-bottom: 45px;}
 }
 
 @media (max-width: 499px) {
     h1 {font-size: 3em;}
-    h2 {font-size: .8em;}
+    .subtitle {font-size: .8em;}
 }
 
 @media (max-width: 400px) {
     h1 {font-size: 3em;}
-    h2 {font-size: .7em;}
+    .subtitle {font-size: .7em;}
 }
 
 /* Skills Section */
@@ -111,6 +112,23 @@ h4 {
         width: 100%;
         margin: 40px auto;
     }
+}
+
+/* Overview Section */
+.overview-h2 {margin-bottom: 45px;}
+
+.aspect-ratio-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+.overview {
+    position: absolute;
+    border-radius: 10px;
+    height: 100%;
+    width: 100%;
+    left: 0;
 }
 
 /* Footer Settings */
