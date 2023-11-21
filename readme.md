@@ -12,3 +12,12 @@ Created the project, added all pages and images, as well as creating the navbar 
 
 ## Update 4: Overview Section
 * Created three columns for github, video, and audio content.
+
+## Update 5: Latest Content Section; Homepage Complete!
+* Created the Latest Content Section.
+* Completed the homepage! This includes:
+    * Navbar with links to the homepage, website portfolio, video portfolio, audio portfolio, about me, and contact pages.
+    * Header with a subtitle, as well as icons that lead to my LinkedIn, GitHub, and SoundCloud pages.
+    * Skills Section which gives brief descriptions of each skill I'm promoting.
+    * An Overview Section with thumbnails that lead to my GitHub, Video Demo Reel, and Audio Demo Reel.
+    * Latest Content Section, with thumbnails to my latest work in each field, and buttons that go to their respective skill pages.
