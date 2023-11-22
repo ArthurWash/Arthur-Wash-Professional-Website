@@ -25,5 +25,8 @@ Created the project, added all pages and images, as well as creating the navbar 
 ## Update 6: Web Dev Portfolio Complete
 * Created the Web Dev Portfolio page.
 
-## Update 7: Video Portfolio Coplete
+## Update 7: Video Portfolio Complete
 * Created the Video Portfolio page, which uses a giant video on top for the demo reel, and a 4x3 grid for the other videos.
+
+## Update 8: Audio Portfolio Complete
+* Created the Audio Portfolio page. Same as video portfolio page but with links to audio.
