@@ -21,3 +21,6 @@ Created the project, added all pages and images, as well as creating the navbar 
     * Skills Section which gives brief descriptions of each skill I'm promoting.
     * An Overview Section with thumbnails that lead to my GitHub, Video Demo Reel, and Audio Demo Reel.
     * Latest Content Section, with thumbnails to my latest work in each field, and buttons that go to their respective skill pages.
+
+## Update 6: Web Dev Portfolio Complete
+* Created the Web Dev Portfolio page.
