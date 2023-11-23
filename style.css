@@ -183,6 +183,21 @@ h4 {
     margin-bottom: 75px;
 }
 
+/****************************
+* About Me Settings **
+****************************/
+
+.btn-custom-about {
+    background-color: rgb(239, 0, 0);
+    margin-top: 15px;
+}
+
+#about-me {
+    color: white;
+    background-color: rgba(44, 44, 44, 0.856);
+    padding: 10px;
+}
+
 /* Footer Settings */
 .footer-custom {margin-top: 50px;}
 

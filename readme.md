@@ -30,3 +30,6 @@ Created the project, added all pages and images, as well as creating the navbar 
 
 ## Update 8: Audio Portfolio Complete
 * Created the Audio Portfolio page. Same as video portfolio page but with links to audio.
+
+## Update 9: About Me Page Created, Structure Complete.
+* Created the about me page. This includes two buttons that lead to my resumes, a photo of myself, and an about me paragraph section. This is pretty much complete, but I will be updating my video resume and the about me paragraph before the official release.
