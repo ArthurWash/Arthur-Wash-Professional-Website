@@ -1,3 +1,7 @@
+/****************************
+**** General CSS Settings ***
+****************************/
+
 body {
     background-color: black;
     background-image: url(./images/background.jpeg);
@@ -24,6 +28,8 @@ main {
         opacity: 1;
      }
 }
+
+a {text-decoration: none;}
 
 /* Navbar Element Settings */
 nav {position: fixed;}
@@ -196,6 +202,7 @@ h4 {
     color: white;
     background-color: rgba(44, 44, 44, 0.856);
     padding: 10px;
+    border-radius: 10px;
 }
 
 /****************************

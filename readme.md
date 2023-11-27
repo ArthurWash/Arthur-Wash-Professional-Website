@@ -36,3 +36,7 @@ Created the project, added all pages and images, as well as creating the navbar 
 
 ## Update 10: Contact Page Complete
 * Created the contact page. All that is left is to fix the video resume and paragraph on the about me page!
+
+## Update 11: Website Complete!
+* The website is finished! All page structures are complete.
+* In the future, there will be minor updates, such as changing content for portfolios.
