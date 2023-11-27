@@ -59,7 +59,7 @@ h1 {
     font-size: 3.5em;
     font-weight: bold;
     text-shadow: 5px 5px 5px black;
-    margin-top: 125px;
+    margin-top: 100px;
 }
 
 h2 {
@@ -184,7 +184,7 @@ h4 {
 }
 
 /****************************
-* About Me Settings **
+***** About Me Settings *****
 ****************************/
 
 .btn-custom-about {
@@ -196,6 +196,21 @@ h4 {
     color: white;
     background-color: rgba(44, 44, 44, 0.856);
     padding: 10px;
+}
+
+/****************************
+***** Contact Settings ******
+****************************/
+.contact-header {
+    color: white;
+}
+
+.contact-link {
+    text-decoration: none;
+    color: rgb(239, 0, 0);
+    font-size: 1.5em;
+    font-weight: bold;
+    text-shadow: 5px 5px 5px black;
 }
 
 /* Footer Settings */
