@@ -98,7 +98,6 @@ h2 {
     .subtitle {font-size: .8em;}
     body {
         background-attachment: none;
-        background-position: fixed;
         padding: 0;
     }
 }
