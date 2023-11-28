@@ -13,7 +13,7 @@ body {
 
 @media all and (platform: Windows) and (browser: chrome) {
     body {
-      padding: 20px;
+      padding: 20px !important;
     }
   }
 
