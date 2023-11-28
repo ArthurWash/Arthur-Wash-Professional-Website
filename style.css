@@ -98,7 +98,7 @@ h2 {
     .subtitle {font-size: .8em;}
     body {
         background-attachment: none;
-        background-repeat: repeat-y;
+        background-size: cover;
     }
 }
 
