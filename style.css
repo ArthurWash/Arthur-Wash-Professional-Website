@@ -97,7 +97,7 @@ h2 {
     h1 {font-size: 3em;}
     .subtitle {font-size: .8em;}
     body {
-        background-size: scroll;
+        background-attachment: scroll;
         padding: 0;
     }
 }
