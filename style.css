@@ -9,13 +9,8 @@ body {
     background-attachment: fixed;
     background-repeat: no-repeat;
     font-family: 'Roboto Condensed', sans-serif;
+    padding: 20px;
 }
-
-@media all and (platform: Windows) and (browser: chrome) {
-    body {
-      padding: 20px !important;
-    }
-  }
 
 main {
         /* Fade In Effect */
