@@ -96,12 +96,6 @@ h2 {
 @media (max-width: 499px) {
     h1 {font-size: 3em;}
     .subtitle {font-size: .8em;}
-    body {
-        background-image: url(./images/Mobile\ Background\ for\ Website.jpg);
-        background-position: none;
-        background-attachment: none;
-        padding: 0;
-    }
 }
 
 @media (max-width: 400px) {
