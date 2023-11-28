@@ -96,6 +96,10 @@ h2 {
 @media (max-width: 499px) {
     h1 {font-size: 3em;}
     .subtitle {font-size: .8em;}
+    body {
+        background-attachment: none;
+        background-repeat: repeat-y;
+    }
 }
 
 @media (max-width: 400px) {
