@@ -98,7 +98,8 @@ h2 {
     .subtitle {font-size: .8em;}
     body {
         background-image: url(./images/Mobile\ Background\ for\ Website.jpg);
-        background-position: none;
+        background-position: fixed;
+        background-attachment: none;
         padding: 0;
     }
 }
