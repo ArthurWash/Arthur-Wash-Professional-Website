@@ -11,6 +11,12 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
 }
 
+@media all and (platform: Windows) and (browser: chrome) {
+    body {
+      padding: 20px;
+    }
+  }
+
 main {
         /* Fade In Effect */
         animation: fadeInAnimation ease 1s;
