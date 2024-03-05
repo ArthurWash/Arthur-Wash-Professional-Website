@@ -186,6 +186,55 @@ h4 {
     border-radius: 10px;
 }
 
+/* Hover Effect */
+.web-port-preview {
+    transition: transform 0.3s ease-in-out;
+}
+
+.web-port-preview:hover {
+    transform: scale(1.1);
+}
+
+/* Title on hover */
+.image-container {
+    position: relative;
+}
+
+.image-title {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%; /* Set to the width of your image if it's not responsive */
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    border-radius: 10px;
+}
+
+.image-container a:hover .image-title {
+    opacity: 1;
+}
+
+/* Mobile layout for web dev portfolio */
+@media (max-width: 499px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .image-container {
+        margin-bottom: 40px;
+    }
+
+    .image-container .image-title {
+        opacity: 1;
+    }
+}
+
 /****************************
 * Audio Portfolio Settings **
 ****************************/
